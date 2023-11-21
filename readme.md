@@ -17,3 +17,13 @@ Il recap dei dati e l'output del prezzo finale, andranno quindi stampati in pagi
 Sono richiesti almeno 5 push.
 Consigli:
 Rispettate le milestone., non andate avanti se non avete completato prima quella precedente.
+
+
+1 - Far inserire all'utente il numero di chilometri
+2 - Far inserire l'età dell'utente
+3 - Calcolare il prezzo 
+4.a - ? l'età < 18
+    5 - applicare lo sconto del 20%
+4.b - :? età >= 65
+    6. - applicare lo sconto del 40%
+7 - far visualizzare il risultato
