@@ -22,6 +22,7 @@ invia.addEventListener('click', function ( ){
     //variabile per scrivere sul biglietto che tipo di offerta abbiamo
     let offerta = "Standard";
 
+    //ciao
     
     //eseguiamo il controllo dell'età
     if(eta < 18){
